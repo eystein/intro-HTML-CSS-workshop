@@ -1,0 +1,25 @@
+{
+  "name": "intro-to-html-css",
+  "version": "1.0.0",
+  "description": "Slides and resources for my 1-day “Introduction to web development” workshop.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eystein/intro-HTML-CSS-workshop.git"
+  },
+  "keywords": [
+    "workshop",
+    "html",
+    "css",
+    "geek-girls-carrots"
+  ],
+  "author": "Eystein Mack Alnæs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eystein/intro-HTML-CSS-workshop/issues"
+  },
+  "homepage": "https://github.com/eystein/intro-HTML-CSS-workshop#readme"
+}
