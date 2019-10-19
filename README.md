@@ -41,6 +41,7 @@ Even if you are not active on twitter, there are plenty of others who are. Follo
 | [A List Apart](https://alistapart.com/)                	| For people who make websites                                                                      	|
 | [Smashing Magazine](https://www.smashingmagazine.com/) 	| For web designers and developers                                                                  	|
 | [CSS-Tricks](https://css-tricks.com/)                  	| Daily articles about CSS, HTML, JavaScript, and all things related to web design and development. 	|
+| [The Practical Dev](https://dev.to/)   |  Dev focused blogging platform |
 
 ### Podcasts
 Link  |  About
